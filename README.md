@@ -1,2 +1,2 @@
 My first readme
-I am getting the hang of this
+I am getting the hang of this.
